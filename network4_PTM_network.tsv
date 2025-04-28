@@ -1,0 +1,235 @@
+node1	attributes	node2
+Glycerol 3-phosphate	uptake	Veillonella_sp018367495_L3_098_332G1etc
+Pauljensenia_sp900541895_UMGS402	secrete	Chloride
+Hydrogen	uptake	Pauljensenia_sp900541895_UMGS402
+bin1003550	secrete	Chloride
+S-Acetyldihydrolipoamide	uptake	S_sp000187445_VTCC12814
+Pauljensenia_sp900541895_UMGS402	secrete	Decanoyl-CoA (n-C10:0CoA)
+bin1003550	secrete	Decanoyl-CoA (n-C10:0CoA)
+Butanoyl-CoA	uptake	S_sp000187445_VTCC12814
+L-Arabinose	uptake	bin1003550
+L-Homoserine	uptake	S_sp000187445_VTCC12814
+Arsenate	uptake	Veillonella_sp018367495_L3_098_332G1etc
+Pauljensenia_sp900541895_UMGS402	secrete	Choline C5H14NO
+bin1003550	secrete	Choline C5H14NO
+Pauljensenia_sp900541895_UMGS402	secrete	Glycerol 3-phosphate
+D-Glutamate	uptake	bin1003550
+Pauljensenia_sp900541895_UMGS402	secrete	L-Arabinose
+Pauljensenia_sp900541895_UMGS402	secrete	L-Homoserine
+bin1003550	secrete	Calcium
+Pauljensenia_sp900541895_UMGS402	secrete	Uridine
+Veillonella_sp018367495_L3_098_332G1etc	secrete	3-(Imidazol-4-yl)-2-oxopropyl phosphate
+bin1003550	secrete	L-Lysine
+Ammonia	uptake	Pauljensenia_sp900541895_UMGS402
+Alpha D-glucose	uptake	S_sp000187445_VTCC12814
+Choline C5H14NO	uptake	Veillonella_sp018367495_L3_098_332G1etc
+bin1003550	secrete	D-Mannose 1-phosphate
+Decanoyl-CoA (n-C10:0CoA)	uptake	S_sp000187445_VTCC12814
+DGMP C10H12N5O7P	uptake	Pauljensenia_sp900541895_UMGS402
+L-Arabinose	uptake	Veillonella_sp018367495_L3_098_332G1etc
+N-Acetyl-D-mannosamine	uptake	Pauljensenia_sp900541895_UMGS402
+S_sp000187445_VTCC12814	secrete	N-Acetyl-L-glutamate 5-semialdehyde
+O-Succinylbenzoyl-CoA	uptake	S_sp000187445_VTCC12814
+Chloride	uptake	Veillonella_sp018367495_L3_098_332G1etc
+bin1003550	secrete	Methanol
+Pauljensenia_sp900541895_UMGS402	secrete	Arsenate
+Branching glycogen  4 units	uptake	S_sp000187445_VTCC12814
+L-Lysine	uptake	Veillonella_sp018367495_L3_098_332G1etc
+bin1003550	secrete	Butanal C4H8O
+Alpha-D-glucose 6 phosphate	uptake	Veillonella_sp018367495_L3_098_332G1etc
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Zinc
+Methanol	uptake	Veillonella_sp018367495_L3_098_332G1etc
+bin1003550	secrete	Hydroxypyruvate
+Veillonella_sp018367495_L3_098_332G1etc	secrete	D-Glutamate
+Manganese	uptake	S_sp000187445_VTCC12814
+Veillonella_sp018367495_L3_098_332G1etc	secrete	O-Succinyl-L-homoserine
+Dodecanoyl-CoA (n-C12:0CoA)	uptake	S_sp000187445_VTCC12814
+L-Leucine	uptake	S_sp000187445_VTCC12814
+Veillonella_sp018367495_L3_098_332G1etc	secrete	O-Succinylbenzoyl-CoA
+S_sp000187445_VTCC12814	secrete	Uridine
+L-Malate	uptake	Veillonella_sp018367495_L3_098_332G1etc
+D-Glyceraldehyde	uptake	S_sp000187445_VTCC12814
+Pauljensenia_sp900541895_UMGS402	secrete	D-Erythrose 4-phosphate
+bin1003550	secrete	D-Erythrose 4-phosphate
+Pauljensenia_sp900541895_UMGS402	secrete	L-Lactate
+bin1003550	secrete	L-Lactate
+bin1003550	secrete	Zinc
+S_sp000187445_VTCC12814	secrete	D-Glycerate 2-phosphate
+L-Lactate	uptake	S_sp000187445_VTCC12814
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Hydrogen
+R  Acetoin C4H8O2	uptake	Veillonella_sp018367495_L3_098_332G1etc
+Phosphate	uptake	Veillonella_sp018367495_L3_098_332G1etc
+bin1003550	secrete	(R)-3-Hydroxybutyryl-CoA
+Dodecanoyl-CoA (n-C12:0CoA)	uptake	Veillonella_sp018367495_L3_098_332G1etc
+Pauljensenia_sp900541895_UMGS402	secrete	O-Succinylbenzoyl-CoA
+D-Glutamate	uptake	S_sp000187445_VTCC12814
+bin1003550	secrete	O-Succinylbenzoyl-CoA
+D-Glycerate 2-phosphate	uptake	Pauljensenia_sp900541895_UMGS402
+D-Glycerate 2-phosphate	uptake	bin1003550
+Phosphate	uptake	S_sp000187445_VTCC12814
+S_sp000187445_VTCC12814	secrete	Magnesium
+Manganese	uptake	Veillonella_sp018367495_L3_098_332G1etc
+S_sp000187445_VTCC12814	secrete	Alpha-D-glucose 6 phosphate
+Veillonella_sp018367495_L3_098_332G1etc	secrete	L-Lactate
+Succinate	uptake	S_sp000187445_VTCC12814
+L-Lysine	uptake	S_sp000187445_VTCC12814
+Toluene	uptake	Pauljensenia_sp900541895_UMGS402
+DAMP C10H12N5O6P	uptake	Pauljensenia_sp900541895_UMGS402
+bin1003550	secrete	D-Glucose
+Chloride	uptake	S_sp000187445_VTCC12814
+(R)-3-hydroxytetradecanoyl-coa	uptake	bin1003550
+Ornithine	uptake	bin1003550
+D-Erythrose 4-phosphate	uptake	S_sp000187445_VTCC12814
+Pauljensenia_sp900541895_UMGS402	secrete	D-Glutamate
+Veillonella_sp018367495_L3_098_332G1etc	secrete	"Sedoheptulose 1,7-bisphosphate"
+Hexanoyl-CoA (n-C6:0CoA)	uptake	S_sp000187445_VTCC12814
+D-Glucose	uptake	Pauljensenia_sp900541895_UMGS402
+Magnesium	uptake	Pauljensenia_sp900541895_UMGS402
+Magnesium	uptake	bin1003550
+S_sp000187445_VTCC12814	secrete	R  Acetoin C4H8O2
+Uridine	uptake	Veillonella_sp018367495_L3_098_332G1etc
+Pauljensenia_sp900541895_UMGS402	secrete	2-Oxo-3-hydroxy-4-phosphobutanoate
+DUMP C9H11N2O8P	uptake	Pauljensenia_sp900541895_UMGS402
+Pauljensenia_sp900541895_UMGS402	secrete	Dodecanoyl-CoA (n-C12:0CoA)
+bin1003550	secrete	Dodecanoyl-CoA (n-C12:0CoA)
+L 1 Pyrroline 3 hydroxy 5 carboxylate C5H6NO3	uptake	Pauljensenia_sp900541895_UMGS402
+bin1003550	secrete	Manganese
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Deoxyuridine
+S_sp000187445_VTCC12814	secrete	Choline C5H14NO
+Ornithine	uptake	S_sp000187445_VTCC12814
+Pauljensenia_sp900541895_UMGS402	secrete	L-Serine
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Toluene
+Veillonella_sp018367495_L3_098_332G1etc	secrete	(R)-Hydroxyoctanoyl-CoA
+S_sp000187445_VTCC12814	secrete	Co2+
+Pauljensenia_sp900541895_UMGS402	secrete	Molybdate
+bin1003550	secrete	Molybdate
+L Ornithine C5H13N2O2	uptake	Veillonella_sp018367495_L3_098_332G1etc
+bin1003550	secrete	Reduced ferredoxin
+Hydroxypyruvate	uptake	Veillonella_sp018367495_L3_098_332G1etc
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Succinate
+D-Ribose	uptake	bin1003550
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Reduced ferredoxin
+S_sp000187445_VTCC12814	secrete	N-Acetyl-L-glutamate
+2-Oxo-3-hydroxy-4-phosphobutanoate	uptake	S_sp000187445_VTCC12814
+Pauljensenia_sp900541895_UMGS402	secrete	Magnesium
+bin1003550	secrete	Magnesium
+Phenylacetaldehyde	uptake	Veillonella_sp018367495_L3_098_332G1etc
+S_sp000187445_VTCC12814	secrete	D-Ribose
+S_sp000187445_VTCC12814	secrete	N-Acetyl-D-mannosamine
+Pauljensenia_sp900541895_UMGS402	secrete	Hexanoyl-CoA (n-C6:0CoA)
+Pauljensenia_sp900541895_UMGS402	secrete	Ornithine
+bin1003550	secrete	Hexanoyl-CoA (n-C6:0CoA)
+S_sp000187445_VTCC12814	secrete	Ammonia
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Molybdate
+D-Mannose 1-phosphate	uptake	S_sp000187445_VTCC12814
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Magnesium
+Phosphate	uptake	Pauljensenia_sp900541895_UMGS402
+Pauljensenia_sp900541895_UMGS402	secrete	Ethanol
+bin1003550	secrete	Ethanol
+Veillonella_sp018367495_L3_098_332G1etc	secrete	N-Acetyl-D-mannosamine
+Pauljensenia_sp900541895_UMGS402	secrete	Putrescine
+Pauljensenia_sp900541895_UMGS402	secrete	R  Acetoin C4H8O2
+bin1003550	secrete	Phosphate
+bin1003550	secrete	R  Acetoin C4H8O2
+bin1003550	secrete	Putrescine
+Veillonella_sp018367495_L3_098_332G1etc	secrete	(R)-3-hydroxytetradecanoyl-coa
+Veillonella_sp018367495_L3_098_332G1etc	secrete	D-Glycerate 2-phosphate
+S_sp000187445_VTCC12814	secrete	O-Succinyl-L-homoserine
+Veillonella_sp018367495_L3_098_332G1etc	secrete	D-Ribose
+L-Serine	uptake	bin1003550
+D-Mannose 1-phosphate	uptake	Pauljensenia_sp900541895_UMGS402
+Pauljensenia_sp900541895_UMGS402	secrete	L-Leucine
+bin1003550	secrete	DGMP C10H12N5O7P
+(R)-Hydroxyoctanoyl-CoA	uptake	bin1003550
+Pauljensenia_sp900541895_UMGS402	secrete	Alpha-D-glucose 6 phosphate
+bin1003550	secrete	Alpha-D-glucose 6 phosphate
+S_sp000187445_VTCC12814	secrete	3-(Imidazol-4-yl)-2-oxopropyl phosphate
+Pauljensenia_sp900541895_UMGS402	secrete	Glycogen  4 units  linear glucan
+bin1003550	secrete	L 1 Pyrroline 3 hydroxy 5 carboxylate C5H6NO3
+Molybdate	uptake	S_sp000187445_VTCC12814
+S_sp000187445_VTCC12814	secrete	Sulfite
+bin1003550	secrete	Ammonia
+D-Glucose	uptake	Veillonella_sp018367495_L3_098_332G1etc
+Deoxyuridine	uptake	Pauljensenia_sp900541895_UMGS402
+Zinc	uptake	Pauljensenia_sp900541895_UMGS402
+Pauljensenia_sp900541895_UMGS402	secrete	D-Glyceraldehyde
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Co2+
+Magnesium	uptake	Veillonella_sp018367495_L3_098_332G1etc
+bin1003550	secrete	D-Glyceraldehyde
+3-(Imidazol-4-yl)-2-oxopropyl phosphate	uptake	bin1003550
+Succinate	uptake	Pauljensenia_sp900541895_UMGS402
+Succinate	uptake	bin1003550
+bin1003550	secrete	DAMP C10H12N5O6P
+L-Serine	uptake	S_sp000187445_VTCC12814
+Calcium	uptake	Pauljensenia_sp900541895_UMGS402
+Veillonella_sp018367495_L3_098_332G1etc	secrete	N-Acetyl-L-glutamate 5-semialdehyde
+L-Serine	uptake	Veillonella_sp018367495_L3_098_332G1etc
+L-Homoserine	uptake	bin1003550
+DAMP C10H12N5O6P	uptake	S_sp000187445_VTCC12814
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Inorganic triphosphate
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Ammonia
+S_sp000187445_VTCC12814	secrete	L Ornithine C5H13N2O2
+S_sp000187445_VTCC12814	secrete	(R)-Hydroxyoctanoyl-CoA
+Calcium	uptake	bin1003550
+Veillonella_sp018367495_L3_098_332G1etc	secrete	DUMP C9H11N2O8P
+D-Glucose	uptake	S_sp000187445_VTCC12814
+Pauljensenia_sp900541895_UMGS402	secrete	N-Acetyl-L-glutamate
+bin1003550	secrete	N-Acetyl-L-glutamate
+Ethanol	uptake	S_sp000187445_VTCC12814
+Pauljensenia_sp900541895_UMGS402	secrete	Butanoyl-CoA
+bin1003550	secrete	Butanoyl-CoA
+S_sp000187445_VTCC12814	secrete	L-Malate
+N-Acetyl-L-glutamate 5-semialdehyde	uptake	Pauljensenia_sp900541895_UMGS402
+Veillonella_sp018367495_L3_098_332G1etc	secrete	DAMP C10H12N5O6P
+Pauljensenia_sp900541895_UMGS402	secrete	Branching glycogen  4 units
+bin1003550	secrete	Co2+
+L-Lactate	uptake	Pauljensenia_sp900541895_UMGS402
+5-Formyltetrahydrofolate	uptake	Pauljensenia_sp900541895_UMGS402
+L-Lactate	uptake	bin1003550
+N-Acetyl-L-glutamate	uptake	Veillonella_sp018367495_L3_098_332G1etc
+5-Formyltetrahydrofolate	uptake	bin1003550
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Butanoyl-CoA
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Agmatine
+Butanal C4H8O	uptake	Veillonella_sp018367495_L3_098_332G1etc
+Veillonella_sp018367495_L3_098_332G1etc	secrete	DGMP C10H12N5O7P
+Glycerol 3-phosphate	uptake	bin1003550
+Veillonella_sp018367495_L3_098_332G1etc	secrete	L-Leucine
+bin1003550	secrete	DUMP C9H11N2O8P
+S_sp000187445_VTCC12814	secrete	Deoxyuridine
+L-Malate	uptake	Pauljensenia_sp900541895_UMGS402
+Pauljensenia_sp900541895_UMGS402	secrete	S-Acetyldihydrolipoamide
+S_sp000187445_VTCC12814	secrete	Putrescine
+bin1003550	secrete	S-Acetyldihydrolipoamide
+Pauljensenia_sp900541895_UMGS402	secrete	Inorganic triphosphate
+bin1003550	secrete	N-Acetyl-L-glutamate 5-semialdehyde
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Ornithine
+bin1003550	secrete	Inorganic triphosphate
+L-Malate	uptake	bin1003550
+(R)-3-Hydroxybutyryl-CoA	uptake	Veillonella_sp018367495_L3_098_332G1etc
+S_sp000187445_VTCC12814	secrete	DGMP C10H12N5O7P
+Reduced ferredoxin	uptake	Pauljensenia_sp900541895_UMGS402
+Veillonella_sp018367495_L3_098_332G1etc	secrete	D-Erythrose 4-phosphate
+Veillonella_sp018367495_L3_098_332G1etc	secrete	D-Glyceraldehyde
+Pauljensenia_sp900541895_UMGS402	secrete	D-Ribose
+Putrescine	uptake	Veillonella_sp018367495_L3_098_332G1etc
+O-Succinyl-L-homoserine	uptake	bin1003550
+bin1003550	secrete	Phenylacetaldehyde
+Agmatine	uptake	bin1003550
+Veillonella_sp018367495_L3_098_332G1etc	secrete	Calcium
+Veillonella_sp018367495_L3_098_332G1etc	secrete	L-Homoserine
+S_sp000187445_VTCC12814	secrete	L-Arabinose
+S_sp000187445_VTCC12814	secrete	Calcium
+Veillonella_sp018367495_L3_098_332G1etc	secrete	5-Formyltetrahydrofolate
+Arsenate	uptake	S_sp000187445_VTCC12814
+Sulfite	uptake	Pauljensenia_sp900541895_UMGS402
+Co2+	uptake	Pauljensenia_sp900541895_UMGS402
+Glycogen  4 units  linear glucan	uptake	S_sp000187445_VTCC12814
+"Sedoheptulose 1,7-bisphosphate"	uptake	Pauljensenia_sp900541895_UMGS402
+S_sp000187445_VTCC12814	secrete	Zinc
+Methanol	uptake	Pauljensenia_sp900541895_UMGS402
+Inorganic triphosphate	uptake	S_sp000187445_VTCC12814
+L 1 Pyrroline 3 hydroxy 5 carboxylate C5H6NO3	uptake	Veillonella_sp018367495_L3_098_332G1etc
+S_sp000187445_VTCC12814	secrete	DUMP C9H11N2O8P
+L-Lysine	uptake	Pauljensenia_sp900541895_UMGS402
+Pauljensenia_sp900541895_UMGS402	secrete	Alpha D-glucose
+Manganese	uptake	Pauljensenia_sp900541895_UMGS402

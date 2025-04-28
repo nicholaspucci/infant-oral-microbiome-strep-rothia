@@ -1,0 +1,19 @@
+KO	enzyme	function	pathway
+K07673	narX	Nitrate reduction	RD_NOincrease
+K00370	narG, narZ, nxrA	Nitrate reduction	RD_NOincrease
+K00373	narJ, narW	Nitrate reduction	RD_NOincrease
+K00371	narH, narY, nxrB	Nitrate reduction	RD_NOincrease
+K00374	narI, narV	Nitrate reduction	RD_NOincrease
+K00372	nasC, nasA	Nitrate assimilation	ANR_NOdecrease
+K00368	nirK	Nitrite reduction	RD_NOincrease
+K15864	nirS	Nitrite reduction	RD_NOincrease
+K02575	narK	Nitrate/nitrite transporter	RD_NOincrease
+K00367	narB	Nitrate reduction	RD_NOincrease
+K02567	napA	Nitrate reduction	DNRA_NOdecrease
+K02568	napB	Nitrate reduction	DNRA_NOdecrease
+K00360	nasB	Nitrate assimilation	ANR_NOdecrease
+K00366	nirA	Nitrate reduction	ANR_NOdecrease
+K00362	nirB	Nitrate reduction	ANR_NOdecrease
+K00363	nirD	Nitrate reduction	ANR_NOdecrease
+K04013	nrfB	Ammonia production	DNRA_NOdecrease
+K03385	nrfA	Ammonia production	DNRA_NOdecrease
