@@ -151,14 +151,18 @@ Final visualizations were refined in Adobe Illustrator.
 
 Note: The scripts produce raw plots/trees that were further customized in Adobe Illustrator and iTOL for the final manuscript figures.
 
-## **Data Access** The raw metagenomic sequencing data has been deposited in the European Nucleotide Archive (ENA) under accession number PRJEB88622). The dataset will be publicly available on 2025-09-01
+## **Data Access** 
+The raw metagenomic sequencing data has been deposited in the European Nucleotide Archive (ENA) under accession number PRJEB88622). The dataset will be publicly available on 2025-09-01
 
-## **Citation** If you use this code or data in your research, please cite:
+## **Citation** 
+If you use this code or data in your research, please cite:
 
 Pucci, N., et al. (2025). Functional adaptations and metabolic interactions of undescribed Streptococcus and Rothia species during infant oral microbiome development. \[Journal Name\]. doi: \[doi\]
 
-## **License** This project is licensed under the \[LICENSE\] \- see the LICENSE file for details.
+## **License** 
+This project is licensed under the \[LICENSE\] \- see the LICENSE file for details.
 
-## **Contact** For questions about the code or data, please contact: \[[n.pucci@amsterdamumc.nl](mailto:n.pucci@amsterdamumc.nl)\] 
+## **Contact** 
+For questions about the code or data, please contact: \[[n.pucci@amsterdamumc.nl](mailto:n.pucci@amsterdamumc.nl)\] 
 
 
