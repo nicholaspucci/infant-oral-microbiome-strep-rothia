@@ -1,6 +1,9 @@
-# **Infant Oral Microbiome Development** This repository contains the code and data used to generate the main figures in **"Functional adaptations and metabolic interactions of undescribed *Streptococcus* and *Rothia* species during infant oral microbiome development"**.
+# **Infant Oral Microbiome Development** 
+This repository contains the code and data used to generate the main figures in 
+**"Functional adaptations and metabolic interactions of undescribed *Streptococcus* and *Rothia* species during infant oral microbiome development"**.
 
-## **Overview** This study analyzes oral microbiomes from a longitudinal cohort of 24 mother-infant dyads at 1 and 6 months postpartum using shotgun metagenomics. We identified two previously undescribed *Streptococcus* and *Rothia* species that are prevalent, abundant, and strongly co-occurring members of the oral microbiome of six-month-old infants. The repository provides code to reproduce the main figures presented in the paper.
+## **Overview** 
+This study analyzes oral microbiomes from a longitudinal cohort of 24 mother-infant dyads at 1 and 6 months postpartum using shotgun metagenomics. We identified two previously undescribed *Streptococcus* and *Rothia* species that are prevalent, abundant, and strongly co-occurring members of the oral microbiome of six-month-old infants. The repository provides code to reproduce the main figures presented in the paper.
 
 ## **Repository Structure**
 
@@ -133,13 +136,19 @@ Final visualizations were refined in Adobe Illustrator.
 
 ### **To reproduce Figure 1 from the paper:** \# Update the working directory path in the script \# setwd("/your/path/here") source("scripts/figure1/pucci2025\_oral\_script\_figure1.R")
 
-### **To reproduce Figure 2 (phylogenomic trees):** \# Make sure you have anvi'o v8.0 installed and activated \# Prepare a text file 'genus\_phylo\_analysis.txt' with genera names (Streptococcus and Rothia) \# Ensure concatenated amino acid sequence files exist in the working directory
+### **To reproduce Figure 2 (phylogenomic trees):** \# Make sure you have anvi'o v8.0 installed and activated \
+# Prepare a text file 'genus\_phylo\_analysis.txt' with genera names (Streptococcus and Rothia) \
+# Ensure concatenated amino acid sequence files exist in the working directory
 
 ./scripts/figure2/pucci2025\_oral\_script\_figure2.sh
 
-### **To reproduce Figure 3 and 4 from the paper:** \# Update the working directory path in the script \# setwd("/your/path/here") source("scripts/figure3-4/pucci2025\_oral\_script\_figure3\_figure4.R")
+### **To reproduce Figure 3 and 4 from the paper:** \
+# Update the working directory path in the script \
+# setwd("/your/path/here") source("scripts/figure3-4/pucci2025\_oral\_script\_figure3\_figure4.R")
 
-### **To reproduce Figure 5 from the paper:** \# Update the working directory path in the script \# setwd("/your/path/here") source("scripts/figure5/pucci2025\_oral\_script\_figure5.R")
+### **To reproduce Figure 5 from the paper:** \
+# Update the working directory path in the script \
+# setwd("/your/path/here") source("scripts/figure5/pucci2025\_oral\_script\_figure5.R")
 
 Note: The scripts produce raw plots/trees that were further customized in Adobe Illustrator and iTOL for the final manuscript figures.
 
