@@ -133,23 +133,27 @@ Final visualizations were refined in Adobe Illustrator.
 
 ## **Usage**
 
-### **To reproduce Figure 1 from the paper:** \
-# Update the working directory path in the script \# setwd("/your/path/here") source("scripts/figure1/pucci2025\_oral\_script\_figure1.R")
+### **To reproduce Figure 1 from the paper:**
+#Update the working directory path in the script
+#setwd("/your/path/here") 
+#source("scripts/figure1/pucci2025\_oral\_script\_figure1.R")
 
-### **To reproduce Figure 2 (phylogenomic trees):** \
-# Make sure you have anvi'o v8.0 installed and activated \
-# Prepare a text file 'genus\_phylo\_analysis.txt' with genera names (Streptococcus and Rothia) \
-# Ensure concatenated amino acid sequence files exist in the working directory
+### **To reproduce Figure 2 (phylogenomic trees):**
+#Make sure you have anvi'o v8.0 installed and activated
+#Prepare a text file 'genus\_phylo\_analysis.txt' with genera names (Streptococcus and Rothia)
+#Ensure concatenated amino acid sequence files exist in the working directory
 
 ./scripts/figure2/pucci2025\_oral\_script\_figure2.sh
 
-### **To reproduce Figure 3 and 4 from the paper:** \
-# Update the working directory path in the script \
-# setwd("/your/path/here") source("scripts/figure3-4/pucci2025\_oral\_script\_figure3\_figure4.R")
+### **To reproduce Figure 3 and 4 from the paper:**
+#Update the working directory path in the script
+#setwd("/your/path/here") 
+#source("scripts/figure3-4/pucci2025\_oral\_script\_figure3\_figure4.R")
 
-### **To reproduce Figure 5 from the paper:** \
-# Update the working directory path in the script \
-# setwd("/your/path/here") source("scripts/figure5/pucci2025\_oral\_script\_figure5.R")
+### **To reproduce Figure 5 from the paper:**
+#Update the working directory path in the script
+#setwd("/your/path/here") 
+#source("scripts/figure5/pucci2025\_oral\_script\_figure5.R")
 
 Note: The scripts produce raw plots/trees that were further customized in Adobe Illustrator and iTOL for the final manuscript figures.
 
