@@ -124,7 +124,6 @@ Final visualizations were refined in Adobe Illustrator.
 * readxl  
 * pheatmap  
 * stringr  
-* 
 
 ### **External Software**
 
