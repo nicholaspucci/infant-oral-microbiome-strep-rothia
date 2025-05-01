@@ -133,9 +133,11 @@ Final visualizations were refined in Adobe Illustrator.
 
 ## **Usage**
 
-### **To reproduce Figure 1 from the paper:** \# Update the working directory path in the script \# setwd("/your/path/here") source("scripts/figure1/pucci2025\_oral\_script\_figure1.R")
+### **To reproduce Figure 1 from the paper:** \
+# Update the working directory path in the script \# setwd("/your/path/here") source("scripts/figure1/pucci2025\_oral\_script\_figure1.R")
 
-### **To reproduce Figure 2 (phylogenomic trees):** \# Make sure you have anvi'o v8.0 installed and activated \
+### **To reproduce Figure 2 (phylogenomic trees):** \
+# Make sure you have anvi'o v8.0 installed and activated \
 # Prepare a text file 'genus\_phylo\_analysis.txt' with genera names (Streptococcus and Rothia) \
 # Ensure concatenated amino acid sequence files exist in the working directory
 
