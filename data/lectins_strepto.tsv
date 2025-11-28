@@ -1,0 +1,145 @@
+bin	description	name	group	copy_number	genome_completeness
+S_lactarius_ASSEMBLYK77_EHC8_1833_18	accessory Sec-dependent serine-rich glycoprotein adhesin	S_lactarius_ASSEMBLYK77_EHC8_1833_18	LACTARIUS	1	85.92
+S_lactarius_ASSEMBLYK77_EHC8_1833_18	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_ASSEMBLYK77_EHC8_1833_18	LACTARIUS	1	85.92
+S_lactarius_ERR10960869_bin6	accessory Sec-dependent serine-rich glycoprotein adhesin, partial	S_lactarius_ERR10960869_bin6	LACTARIUS	1	50.7
+S_lactarius_ERR10960869_bin6	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_ERR10960869_bin6	LACTARIUS	1	50.7
+sample1004801b1	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_i6P16Tongue	LACTARIUS	1	81.69
+sample1004798b0	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_i6P16Tooth	LACTARIUS	1	57.75
+sample1004273b4	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_i6P17Tongue	LACTARIUS	1	81.69
+sample1004270b1	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_i6P17Tooth	LACTARIUS	1	60.56
+sample1006330b6	accessory Sec-dependent serine-rich glycoprotein adhesin, partial	S_lactarius_i6P18Tongue	LACTARIUS	1	63.38
+sample1006330b6	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_i6P18Tongue	LACTARIUS	1	63.38
+S_lactarius_IMAU99161	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_IMAU99161	LACTARIUS	1	100
+S_lactarius_IMAU99161	accessory Sec-dependent serine-rich glycoprotein adhesin, partial	S_lactarius_IMAU99161	LACTARIUS	1	100
+S_lactarius_parasanguinisL3_098_121G1etc	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_parasanguinisL3_098_121G1etc	LACTARIUS	2	92.96
+S_lactarius_typeCCUG66490	serine-rich repeat glycoprotein adhesin SrpA	S_lactarius_typeCCUG66490	LACTARIUS	1	100
+S_lactarius_typeCCUG66490	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_typeCCUG66490	LACTARIUS	1	100
+S_lactarius_UMGS525	Metal ABC transporter substrate-binding lipoprotein FimA	S_lactarius_UMGS525	LACTARIUS	1	95.77
+sample1004798b2	Metallo-beta-lactamase domain protein	S_mitis_AQ_i6P16Tooth	MITIS	1	50.7
+sample1004798b2	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_AQ_i6P16Tooth	MITIS	1	50.7
+mitisATCC6249	MBL fold metallo-hydrolase	S_mitis_ATCC6249	MITIS	1	100
+mitisATCC6249	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_ATCC6249	MITIS	1	100
+mitisATCC6249	N-acetylmuramoyl-L-alanine amidase family protein	S_mitis_ATCC6249	MITIS	2	100
+mitisATCC6249	Streptococcal surface protein A sspA	S_mitis_ATCC6249	MITIS	1	100
+mitisBCC65	N-acetylmuramoyl-L-alanine amidase family protein	S_mitis_BCC65	MITIS	1	100
+mitisBCC65	Metallo-beta-lactamase domain protein	S_mitis_BCC65	MITIS	1	100
+mitisBCC65	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_BCC65	MITIS	1	100
+sample1004270b3	Chain A, Platelet aggregation factor Sm-hPAF	S_mitis_D_i6P17Tooth	MITIS	1	50.7
+sample1004270b3	MBL fold metallo-hydrolase	S_mitis_D_i6P17Tooth	MITIS	2	50.7
+sample1004270b3	N-acetylmuramoyl-L-alanine amidase family protein	S_mitis_D_i6P17Tooth	MITIS	1	50.7
+sample1004270b3	thiol-activated cytolysin family protein	S_mitis_D_i6P17Tooth	MITIS	1	50.7
+sample1004270b3	hypothetical protein E3V31_12065	S_mitis_D_i6P17Tooth	MITIS	1	50.7
+sample1004270b3	YSIRK-type signal peptide-containing protein	S_mitis_D_i6P17Tooth	MITIS	1	50.7
+mitisF0392	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_F0392	MITIS	1	100
+mitisF0392	N-acetylmuramoyl-L-alanine amidase family protein	S_mitis_F0392	MITIS	1	100
+mitisF0392	Metallo-beta-lactamase domain protein	S_mitis_F0392	MITIS	1	100
+mitisKCOM1350	N-acetylmuramoyl-L-alanine amidase family protein	S_mitis_KCOM1350	MITIS	1	100
+mitisKCOM1350	Metallo-beta-lactamase domain protein	S_mitis_KCOM1350	MITIS	1	100
+mitisKCOM1350	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_KCOM1350	MITIS	1	100
+mitisNCTC12261	N-acetylmuramoyl-L-alanine amidase family protein	S_mitis_NCTC12261	MITIS	1	100
+mitisNCTC12261	Metallo-beta-lactamase domain protein	S_mitis_NCTC12261	MITIS	1	100
+mitisNCTC12261	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_NCTC12261	MITIS	1	100
+mitisOD_317805_11	YSIRK-type signal peptide-containing protein	S_mitis_OD_317805_11	MITIS	1	98.59
+mitisOD_317805_11	Metallo-beta-lactamase domain protein	S_mitis_OD_317805_11	MITIS	1	98.59
+mitisOD_317805_11	hemolysin	S_mitis_OD_317805_11	MITIS	1	98.59
+mitisOD_317805_11	Chain A, Platelet aggregation factor Sm-hPAF	S_mitis_OD_317805_11	MITIS	1	98.59
+mitisOD_317805_11	N-acetylmuramoyl-L-alanine amidase family protein	S_mitis_OD_317805_11	MITIS	3	98.59
+mitisOD_317805_11	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_OD_317805_11	MITIS	1	98.59
+mitisOT25	Metallo-beta-lactamase domain protein	S_mitis_OT25	MITIS	1	100
+mitisOT25	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_OT25	MITIS	1	100
+mitisOT25	N-acetylmuramoyl-L-alanine amidase family protein	S_mitis_OT25	MITIS	1	100
+mitisSK1126	MBL fold metallo-hydrolase	S_mitis_SK1126	MITIS	1	100
+mitisSK1126	N-acetylmuramoyl-L-alanine amidase family protein	S_mitis_SK1126	MITIS	2	100
+mitisSK1126	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_SK1126	MITIS	1	100
+mitisSK637	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_SK637	MITIS	1	100
+mitisSK637	N-acetylmuramoyl-L-alanine amidase family protein	S_mitis_SK637	MITIS	2	100
+mitisSK637	Metallo-beta-lactamase domain protein	S_mitis_SK637	MITIS	1	100
+mitisSM50	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_mitis_SM50	MITIS	1	100
+S_oralis_ATCC35037	Streptococcal surface protein A sspA	S_oralis_ATCC35037	ORALIS	1	100
+S_oralis_ATCC35037	N-acetylmuramoyl-L-alanine amidase family protein	S_oralis_ATCC35037	ORALIS	2	100
+S_oralis_ATCC35037	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_oralis_ATCC35037	ORALIS	1	100
+S_oralis_ATCC35037	MBL fold metallo-hydrolase	S_oralis_ATCC35037	ORALIS	1	100
+S_oralis_ATCC49296	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_oralis_ATCC49296	ORALIS	1	100
+S_oralis_ATCC49296	MBL fold metallo-hydrolase	S_oralis_ATCC49296	ORALIS	1	100
+S_oralis_ATCC49296	N-acetylmuramoyl-L-alanine amidase family protein	S_oralis_ATCC49296	ORALIS	1	100
+S_oralis_ATCC49296	Streptococcal surface protein A sspA	S_oralis_ATCC49296	ORALIS	1	100
+S_oralis_SK10	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_oralis_SK10	ORALIS	1	100
+S_oralis_SK10	Streptococcal surface protein A sspA	S_oralis_SK10	ORALIS	1	100
+S_oralis_SK10	Metallo-beta-lactamase domain protein	S_oralis_SK10	ORALIS	1	100
+S_oralis_SK10	N-acetylmuramoyl-L-alanine amidase family protein	S_oralis_SK10	ORALIS	2	100
+S_oralis_SK100	Streptococcal surface protein B sspB	S_oralis_SK100	ORALIS	1	100
+S_oralis_SK100	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_oralis_SK100	ORALIS	1	100
+S_oralis_SK100	MBL fold metallo-hydrolase	S_oralis_SK100	ORALIS	1	100
+S_oralis_SK100	N-acetylmuramoyl-L-alanine amidase family protein	S_oralis_SK100	ORALIS	2	100
+S_oralis_SK1074	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_oralis_SK1074	ORALIS	1	100
+S_oralis_SK1074	MBL fold metallo-hydrolase	S_oralis_SK1074	ORALIS	1	100
+S_oralis_SK1074	Streptococcal surface protein A sspA	S_oralis_SK1074	ORALIS	1	100
+S_oralis_SK1074	N-acetylmuramoyl-L-alanine amidase family protein	S_oralis_SK1074	ORALIS	1	100
+S_oralis_SK255	MBL fold metallo-hydrolase	S_oralis_SK255	ORALIS	1	100
+S_oralis_SK255	N-acetylmuramoyl-L-alanine amidase family protein	S_oralis_SK255	ORALIS	1	100
+S_oralis_SK255	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_oralis_SK255	ORALIS	1	100
+S_oralis_SK255	Streptococcal surface protein A sspA	S_oralis_SK255	ORALIS	1	100
+S_oralis_SK304	MBL fold metallo-hydrolase	S_oralis_SK304	ORALIS	1	100
+S_oralis_SK304	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_oralis_SK304	ORALIS	1	100
+S_oralis_SK304	Streptococcal surface protein B sspB	S_oralis_SK304	ORALIS	1	100
+S_oralis_SK304	N-acetylmuramoyl-L-alanine amidase family protein	S_oralis_SK304	ORALIS	2	100
+S_oralis_SK313	MBL fold metallo-hydrolase	S_oralis_SK313	ORALIS	1	98.59
+S_oralis_SK313	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_oralis_SK313	ORALIS	1	98.59
+S_oralis_SK313	N-acetylmuramoyl-L-alanine amidase family protein	S_oralis_SK313	ORALIS	1	98.59
+S_oralis_SK313	Streptococcal surface protein A sspA	S_oralis_SK313	ORALIS	1	98.59
+S_oralis_SK610	MBL fold metallo-hydrolase	S_oralis_SK610	ORALIS	1	100
+S_oralis_SK610	N-acetylmuramoyl-L-alanine amidase family protein	S_oralis_SK610	ORALIS	1	100
+S_oralis_SK610	Streptococcal surface protein A sspA	S_oralis_SK610	ORALIS	1	100
+S_oralis_SK610	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_oralis_SK610	ORALIS	1	100
+perorisATCC700780	N-acetylmuramoyl-L-alanine amidase family protein	S_peroris_ATCC700780	PERORIS	1	100
+perorisATCC700780	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_peroris_ATCC700780	PERORIS	1	100
+perorisATCC700780	MBL fold metallo-hydrolase	S_peroris_ATCC700780	PERORIS	2	100
+perorisHMSC34B10	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_peroris_HMSC34B10	PERORIS	1	100
+perorisHMSC34B10	MBL fold metallo-hydrolase	S_peroris_HMSC34B10	PERORIS	1	100
+sample1004801b2	N-acetylmuramoyl-L-alanine amidase family protein	S_peroris_i6P16Tongue	PERORIS	1	66.2
+sample1004801b2	MBL fold metallo-hydrolase	S_peroris_i6P16Tongue	PERORIS	2	66.2
+salivariusATCC25975	glucosyl transferase	S_salivarius_ATCC25975	SALIVARIUS	3	100
+salivariusATCC25975	KxYKxGKxW signal peptide domain-containing protein	S_salivarius_ATCC25975	SALIVARIUS	1	100
+salivariusATCC25975	Toxin A	S_salivarius_ATCC25975	SALIVARIUS	1	100
+salivariusATCC25975	Metal ABC transporter substrate-binding lipoprotein FimA	S_salivarius_ATCC25975	SALIVARIUS	1	100
+salivariusCAG79	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_salivarius_CAG79	SALIVARIUS	1	100
+salivariusCAG79	glucosyl transferase	S_salivarius_CAG79	SALIVARIUS	1	100
+salivariusCAG79	Toxin A	S_salivarius_CAG79	SALIVARIUS	1	100
+sample1003922b1	glucosyl transferase	S_salivarius_i1P24Tongue	SALIVARIUS	3	100
+sample1003922b1	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_salivarius_i1P24Tongue	SALIVARIUS	1	100
+salivariusICDC2	KxYKxGKxW signal peptide domain-containing protein	S_salivarius_ICDC2	SALIVARIUS	3	100
+salivariusICDC2	glucosyl transferase	S_salivarius_ICDC2	SALIVARIUS	2	100
+salivariusICDC2	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_salivarius_ICDC2	SALIVARIUS	1	100
+salivariusNCTC8618	glucosyl transferase	S_salivarius_NCTC8618	SALIVARIUS	3	98.59
+salivariusNCTC8618	KxYKxGKxW signal peptide domain-containing protein	S_salivarius_NCTC8618	SALIVARIUS	3	98.59
+salivariusNCTC8618	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_salivarius_NCTC8618	SALIVARIUS	1	98.59
+salivariusPS4	glucosyl transferase	S_sp000187445_PS4	SALIVARIUS	1	100
+salivariusPS4	Metal ABC transporter substrate-binding lipoprotein FimA	S_sp000187445_PS4	SALIVARIUS	1	100
+salivariusUBA10771	Toxin A	S_salivarius_UBA10771	SALIVARIUS	1	94.37
+salivariusUBA10771	glucosyl transferase	S_salivarius_UBA10771	SALIVARIUS	2	94.37
+salivariusUBA10771	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_salivarius_UBA10771	SALIVARIUS	1	94.37
+S_sp000187445_C150	Metal ABC transporter substrate-binding lipoprotein FimA	S_sp000187445_C150	Sp000187445	1	100
+S_sp000187445_ERR1305885_bin4	Metal ABC transporter substrate-binding lipoprotein FimA	S_sp000187445_ERR1305885_bin4	Sp000187445	1	74.65
+S_sp000187445_ERR1305885_bin4	glucosyl transferase	S_sp000187445_ERR1305885_bin4	Sp000187445	1	74.65
+S_sp000187445_HSISS2	glucosyl transferase	S_sp000187445_HSISS2	Sp000187445	1	94.37
+S_sp000187445_HSISS2	Metal ABC transporter substrate-binding lipoprotein FimA	S_sp000187445_HSISS2	Sp000187445	1	94.37
+S_sp000187445_HSISS3	Manganese ABC transporter substrate-binding lipoprotein PsaA	S_sp000187445_HSISS3	Sp000187445	1	97.1
+S_sp000187445_HSISS3	glucosyl transferase	S_sp000187445_HSISS3	Sp000187445	1	97.1
+S_sp000187445_Map27_006	glucosyl transferase	S_sp000187445_Map27_006	Sp000187445	1	100
+S_sp000187445_Map27_006	Metal ABC transporter substrate-binding lipoprotein FimA	S_sp000187445_Map27_006	Sp000187445	1	100
+S_sp000187445_Map35_022	glucosyl transferase	S_sp000187445_Map35_022	Sp000187445	1	98.59
+S_sp000187445_Map35_022	Metal ABC transporter substrate-binding lipoprotein FimA	S_sp000187445_Map35_022	Sp000187445	1	98.59
+S_sp000187445_SRR20881976_bin4	glucosyl transferase	S_sp000187445_SRR20881976_bin4	Sp000187445	1	52.11
+S_sp000187445_VTCC12814	Metal ABC transporter substrate-binding lipoprotein FimA	S_sp000187445_VTCC12814	Sp000187445	1	100
+S_sp000187445_VTCC12814	glucosyl transferase	S_sp000187445_VTCC12814	Sp000187445	1	100
+sample1004261b1	KxYKxGKxW signal peptide domain-containing protein	Streptococcus_sp000187445_i6P12Tooth	Sp000187445	1	61.97
+sample1004261b1	Metal ABC transporter substrate-binding lipoprotein FimA	Streptococcus_sp000187445_i6P12Tooth	Sp000187445	1	61.97
+sample1004270b4	glucosyl transferase	Streptococcus_sp000187445_i6P17Tooth	Sp000187445	1	61.97
+sample1004270b4	N-acetylmuramoyl-L-alanine amidase family protein	Streptococcus_sp000187445_i6P17Tooth	Sp000187445	1	61.97
+sample1004270b4	Metal ABC transporter substrate-binding lipoprotein FimA	Streptococcus_sp000187445_i6P17Tooth	Sp000187445	1	61.97
+sample1006330b8	glucosyl transferase	Streptococcus_sp000187445_i6P18Tongue	Sp000187445	1	69.01
+sample1006330b8	Metal ABC transporter substrate-binding lipoprotein FimA	Streptococcus_sp000187445_i6P18Tongue	Sp000187445	1	69.01
+sample1004876b0	glucosyl transferase	Streptococcus_sp000187445_i6P20Tongue	Sp000187445	1	50.7
+sample1004876b0	Metal ABC transporter substrate-binding lipoprotein FimA	Streptococcus_sp000187445_i6P20Tongue	Sp000187445	1	50.7
+sample1006509b5	Metal ABC transporter substrate-binding lipoprotein FimA	Streptococcus_sp000187445_i6P24Tongue	Sp000187445	1	63.38
+sample1006509b5	glucosyl transferase	Streptococcus_sp000187445_i6P24Tongue	Sp000187445	1	63.38
