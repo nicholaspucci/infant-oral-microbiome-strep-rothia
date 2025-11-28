@@ -1,0 +1,119 @@
+node1	attributes	node2
+Streptococcus_AIMSoral1	secrete	Thymidine C10H14N2O5
+Rothia_AIMSoral1	secrete	Manganese
+Calcium	uptake	Pauljensenia_sp900541895
+Rothia_AIMSoral1	secrete	DAMP C10H12N5O6P
+D-Glyceraldehyde	uptake	Streptococcus_AIMSoral1
+Inorganic triphosphate	uptake	Streptococcus_AIMSoral1
+Rothia_AIMSoral1	secrete	Ornithine
+Phenylacetaldehyde	uptake	Rothia_AIMSoral1
+Hydrogen sulfide	uptake	Pauljensenia_sp900541895
+L-Malate	uptake	Pauljensenia_sp900541895
+DGMP C10H12N5O7P	uptake	Pauljensenia_sp900541895
+Pauljensenia_sp900541895	secrete	Ornithine
+DAMP C10H12N5O6P	uptake	Pauljensenia_sp900541895
+Rothia_AIMSoral1	secrete	Formaldehyde
+Butanoyl-CoA	uptake	Streptococcus_AIMSoral1
+Streptococcus_AIMSoral1	secrete	3-(Imidazol-4-yl)-2-oxopropyl phosphate
+Pauljensenia_sp900541895	secrete	Thymidine C10H14N2O5
+Streptococcus_AIMSoral1	secrete	O-Succinyl-L-homoserine
+D-Glycerate 2-phosphate	uptake	Rothia_AIMSoral1
+L-Lysine	uptake	Streptococcus_AIMSoral1
+Ethanol	uptake	Rothia_AIMSoral1
+Pauljensenia_sp900541895	secrete	L-Serine
+D-Glutamate	uptake	Rothia_AIMSoral1
+Streptococcus_AIMSoral1	secrete	DGMP C10H12N5O7P
+Pauljensenia_sp900541895	secrete	O-Succinylbenzoyl-CoA
+Streptococcus_AIMSoral1	secrete	Staphyloferrin B
+Rothia_AIMSoral1	secrete	Dodecanoyl-CoA (n-C12:0CoA)
+Thymidine C10H14N2O5	uptake	Rothia_AIMSoral1
+Rothia_AIMSoral1	secrete	Magnesium
+Ornithine	uptake	Streptococcus_AIMSoral1
+DAMP C10H12N5O6P	uptake	Streptococcus_AIMSoral1
+Pauljensenia_sp900541895	secrete	Alpha D-glucose
+L-Lysine	uptake	Pauljensenia_sp900541895
+Hydrogen	uptake	Rothia_AIMSoral1
+Ethanol	uptake	Streptococcus_AIMSoral1
+Glycerol 3-phosphate	uptake	Rothia_AIMSoral1
+Putrescine	uptake	Pauljensenia_sp900541895
+Rothia_AIMSoral1	secrete	DGMP C10H12N5O7P
+Magnesium	uptake	Rothia_AIMSoral1
+Manganese	uptake	Pauljensenia_sp900541895
+Streptococcus_AIMSoral1	secrete	Magnesium
+Co2+	uptake	Pauljensenia_sp900541895
+Alpha-D-Ribose 5-phosphate	uptake	Rothia_AIMSoral1
+Magnesium	uptake	Pauljensenia_sp900541895
+Hexanoyl-CoA (n-C6:0CoA)	uptake	Streptococcus_AIMSoral1
+Rothia_AIMSoral1	secrete	Co2+
+3-(Imidazol-4-yl)-2-oxopropyl phosphate	uptake	Rothia_AIMSoral1
+D-Glycerate 2-phosphate	uptake	Pauljensenia_sp900541895
+Methanol	uptake	Pauljensenia_sp900541895
+Rothia_AIMSoral1	secrete	O-Succinylbenzoyl-CoA
+Putrescine	uptake	Streptococcus_AIMSoral1
+L-Serine	uptake	Rothia_AIMSoral1
+Pauljensenia_sp900541895	secrete	L-Arabinose
+Streptococcus_AIMSoral1	secrete	Sulfite
+Rothia_AIMSoral1	secrete	Phosphate
+L-Lactate	uptake	Streptococcus_AIMSoral1
+S-Acetyldihydrolipoamide	uptake	Streptococcus_AIMSoral1
+Rothia_AIMSoral1	secrete	Inorganic triphosphate
+Pauljensenia_sp900541895	secrete	Magnesium
+Pauljensenia_sp900541895	secrete	D-Glyceraldehyde
+Streptococcus_AIMSoral1	secrete	Co2+
+Manganese	uptake	Streptococcus_AIMSoral1
+Rothia_AIMSoral1	secrete	Hydrogen sulfide
+Octanoyl-CoA (n-C8:0CoA)	uptake	Streptococcus_AIMSoral1
+Phosphate	uptake	Pauljensenia_sp900541895
+Pauljensenia_sp900541895	secrete	Hydrogen
+Rothia_AIMSoral1	secrete	S-Acetyldihydrolipoamide
+Sulfite	uptake	Pauljensenia_sp900541895
+D-Glutamate	uptake	Streptococcus_AIMSoral1
+N-Acetyl-D-mannosamine	uptake	Pauljensenia_sp900541895
+Alpha D-glucose	uptake	Streptococcus_AIMSoral1
+Streptococcus_AIMSoral1	secrete	Hydrogen sulfide
+Phosphate	uptake	Streptococcus_AIMSoral1
+Rothia_AIMSoral1	secrete	Hexanoyl-CoA (n-C6:0CoA)
+Rothia_AIMSoral1	secrete	D-Mannose 1-phosphate
+Staphyloferrin B	uptake	Rothia_AIMSoral1
+Calcium	uptake	Rothia_AIMSoral1
+Rothia_AIMSoral1	secrete	L-Malate
+Zinc	uptake	Pauljensenia_sp900541895
+Rothia_AIMSoral1	secrete	L-Lysine
+Decanoyl-CoA (n-C10:0CoA)	uptake	Streptococcus_AIMSoral1
+Rothia_AIMSoral1	secrete	Octanoyl-CoA (n-C8:0CoA)
+Pauljensenia_sp900541895	secrete	Butanoyl-CoA
+Rothia_AIMSoral1	secrete	Methanol
+Rothia_AIMSoral1	secrete	D-Glucose
+Rothia_AIMSoral1	secrete	Calcium
+Streptococcus_AIMSoral1	secrete	L-Malate
+Pauljensenia_sp900541895	secrete	Inorganic triphosphate
+L-Arabinose	uptake	Rothia_AIMSoral1
+Rothia_AIMSoral1	secrete	D-Glyceraldehyde
+Pauljensenia_sp900541895	secrete	S-Acetyldihydrolipoamide
+O-Succinylbenzoyl-CoA	uptake	Streptococcus_AIMSoral1
+Formaldehyde	uptake	Streptococcus_AIMSoral1
+Streptococcus_AIMSoral1	secrete	Calcium
+D-Glucose	uptake	Pauljensenia_sp900541895
+Pauljensenia_sp900541895	secrete	Alpha-D-Ribose 5-phosphate
+Isobutyryl-CoA	uptake	Streptococcus_AIMSoral1
+Streptococcus_AIMSoral1	secrete	Zinc
+Rothia_AIMSoral1	secrete	Putrescine
+Streptococcus_AIMSoral1	secrete	D-Glycerate 2-phosphate
+Dodecanoyl-CoA (n-C12:0CoA)	uptake	Streptococcus_AIMSoral1
+Rothia_AIMSoral1	secrete	Isobutyryl-CoA
+O-Succinyl-L-homoserine	uptake	Rothia_AIMSoral1
+D-Mannose 1-phosphate	uptake	Streptococcus_AIMSoral1
+Pauljensenia_sp900541895	secrete	D-Glutamate
+D-Glucose	uptake	Streptococcus_AIMSoral1
+Streptococcus_AIMSoral1	secrete	Phenylacetaldehyde
+Pauljensenia_sp900541895	secrete	Calcium
+Streptococcus_AIMSoral1	secrete	Alpha-D-Ribose 5-phosphate
+Pauljensenia_sp900541895	secrete	Ethanol
+Rothia_AIMSoral1	secrete	Zinc
+Pauljensenia_sp900541895	secrete	L-Lactate
+D-Mannose 1-phosphate	uptake	Pauljensenia_sp900541895
+Pauljensenia_sp900541895	secrete	Glycerol 3-phosphate
+Rothia_AIMSoral1	secrete	L-Lactate
+L-Serine	uptake	Streptococcus_AIMSoral1
+Rothia_AIMSoral1	secrete	Decanoyl-CoA (n-C10:0CoA)
+Streptococcus_AIMSoral1	secrete	N-Acetyl-D-mannosamine
