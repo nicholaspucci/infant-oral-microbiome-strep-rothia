@@ -1,9 +1,9 @@
 # **Infant Oral Microbiome Development** 
 This repository contains the code and data used to generate the main figures in 
-**"Functional adaptations and metabolic interactions of undescribed *Streptococcus* and *Rothia* species during infant oral microbiome development"**.
+**"Unique ecology of co-occurring functionally and phylogenetically undescribed species in the infant oral microbiome"**.
 
 ## **Overview** 
-This study analyzes oral microbiomes from a longitudinal cohort of 24 mother-infant dyads at 1 and 6 months postpartum using shotgun metagenomics. We identified two previously undescribed *Streptococcus* and *Rothia* species that are prevalent, abundant, and strongly co-occurring members of the oral microbiome of six-month-old infants. The repository provides code to reproduce the main figures presented in the paper.
+This study analyzes oral microbiomes from a longitudinal cohort of 24 mother-infant dyads at 1 and 6 months postpartum using shotgun metagenomics. We identified two previously undescribed *Streptococcus* and *Rothia* species that are prevalent, abundant and strongly co-occurring members of the oral microbiome of six-month-old infants. The repository provides code to reproduce the main figures presented in the paper.
 
 ## **Repository Structure**
 
